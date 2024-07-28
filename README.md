@@ -77,6 +77,7 @@ If you download the final source code then you can follow the following instruct
 Alchemy will provide you with some free test faucets which you can transfer to your wallet address for deploying the contract
 
 ```https://www.alchemy.com/faucets
+  URL: https://cloud.google.com/application/web3/faucet
   Get: Free Test Faucets
 ```
 
