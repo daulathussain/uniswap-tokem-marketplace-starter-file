@@ -14,10 +14,10 @@ Kindly follow the following Instructions to run the project in your system and i
 
 #### Setup Video
 
-- [Final Code Setup video](https://youtu.be/UHjJwa8TiQs?si=EzdPof1eUA37Nhtt)
+- [Final Code Setup video](https://youtu.be/2gqvaEAVCM4?si=b_XykDWVP1hzCBkY)
 
 ```
-   URL: https://youtu.be/UHjJwa8TiQs?si=EzdPof1eUA37Nhtt
+   URL: https://youtu.be/2gqvaEAVCM4?si=b_XykDWVP1hzCBkY
    WATCH: Setup & Demo Of Project
 ```
 
